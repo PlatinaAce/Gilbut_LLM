@@ -51,6 +51,7 @@ export PATH=$JAVA_HOME/bin:$PATH
 
 # 2. Register your Google AI Studio Gemini API Key
 export GEMINI_API_KEY="your_actual_gemini_api_key_here"
+```
 
 ## 🏃 Execution Instructions (How to Run)
 Follow these operational steps sequentially to spin up the orchestrator server:
